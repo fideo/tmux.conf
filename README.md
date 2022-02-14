@@ -11,12 +11,12 @@ La idea de esto es poder tener un repositorio compartido para que otras personas
 
 ## Componentes instalados
 
-- tpm
-- tmux-resurrect
-- tmux-cpu
-- tmux-net-speed
-- tmux-prefix-highlight
-- o0th/tmux-nova
+- [tpm](https://github.com/tmux-plugins/tpm)
+- [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)
+- [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu)
+- [tmux-net-speed](https://github.com/tmux-plugins/tmux-net-speed)
+- [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight)
+- [o0th/tmux-nova](https://github.com/o0th/tmux-nova)
 
 
 _Enjoy!!!_
