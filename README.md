@@ -5,7 +5,7 @@ La idea de esto es poder tener un repositorio compartido para que otras personas
 
 #### Imagen ilustrativa
 
-![Imagen ilustrativa de tmux](/asset/TerminalMultiplexer_cheat_sheet.png)
+![Imagen ilustrativa de tmux](/asset/TerminalMultiplexer.png)
 
 
 
