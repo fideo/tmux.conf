@@ -28,6 +28,8 @@ Para que esto funcione se tiene que instalar Powerline que se hace con los sigui
 
 luego pueden reemplazar el archivo .bashrc también compartido en este repositorio ó pueden pegar esto en su propio archivo .bashrc
 
-``if [ -f /usr/share/powerline/bindings/bash/powerline.sh ]; then
-source /usr/share/powerline/bindings/bash/powerline.sh
-fi]``
+``
+if [ -f /usr/share/powerline/bindings/bash/powerline.sh ]; then
+  source /usr/share/powerline/bindings/bash/powerline.sh 
+fi
+``
