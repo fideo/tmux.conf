@@ -8,6 +8,17 @@ La idea de esto es poder tener un repositorio compartido para que otras personas
 ![Imagen ilustrativa de tmux](/asset/TerminalMultiplexer.png)
 
 
+# Instalación
+
+Para poder tener todo instalado primero debemos tener instalado tpm que nos permitirá cargar los demás plugins.
+Clonamos el repositorio de tpm dentro del directorio plugins dentro de .tmux
+
+``$ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm``
+
+una vez que tenemos esto clonado en ~/.tmux/plugins/tpm levantamos en nuestra terminal tmux; luego ejecutamos el prefix (Ctrl+b) y luego Shift+I para que procese los cambios guardados en .tmux.conf que se encuentra en nuestra directorio de usuario (en mi caso por ejemplo: /home/fideo/.tmux.conf)
+
+_Enjoy!!!_
+
 
 ## Componentes instalados
 
