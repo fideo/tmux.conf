@@ -26,7 +26,7 @@ _Enjoy!!!_
 
 - [tpm](https://github.com/tmux-plugins/tpm)
 - [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)
-- [dracula/tmux](https://draculatheme.com/tmux) version 1.1
+- [dracula/tmux](https://draculatheme.com/tmux)
 
 ### Version 1.0
 
