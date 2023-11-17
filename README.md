@@ -22,12 +22,21 @@ _Enjoy!!!_
 
 ## Componentes instalados
 
+### Version 1.1
+
+- [tpm](https://github.com/tmux-plugins/tpm)
+- [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)
+- [dracula/tmux](https://draculatheme.com/tmux) version 1.1
+
+### Version 1.0
+
 - [tpm](https://github.com/tmux-plugins/tpm)
 - [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)
 - [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu)
 - [tmux-net-speed](https://github.com/tmux-plugins/tmux-net-speed)
 - [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight)
 - [o0th/tmux-nova](https://github.com/o0th/tmux-nova)
+
 
 ### POWERLINE
 
@@ -44,4 +53,3 @@ if [ -f /usr/share/powerline/bindings/bash/powerline.sh ]; then
   source /usr/share/powerline/bindings/bash/powerline.sh
 fi
 ``
-Version 1.0
